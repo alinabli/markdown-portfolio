@@ -4,6 +4,7 @@
   1. uno
   2. dos
   
-*trees :tree:
-*bees :bee:
-*seas :wave:
+  
+* trees:deciduous_tree:
+* bees:bee:
+* seas:ocean:
